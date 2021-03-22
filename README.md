@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning
 - 🔭 I'm currently working on https://serendipo.netlify.app
 
 <!--
