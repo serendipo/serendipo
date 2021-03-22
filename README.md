@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm currently working on https://serendipo.netlify.app/
+- 🔭 I'm currently working on https://serendipo.netlify.app
 
 <!--
 **serendipo/serendipo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
